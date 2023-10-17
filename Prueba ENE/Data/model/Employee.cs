@@ -29,25 +29,8 @@ namespace Prueba_ENE.model
 
         public virtual Health Health { get; set; }
 
-        public Employee(string name, string userEmail, string password, string permissions, string address, 
-            string phone,string rut, int hourValue, int extraValue, int grossSalary, int netSalary, 
-            int discountAFP, int discountHealth, string afpName, string healthName)
+        public Employee()
         {
-            Name = name;
-            UserEmail = userEmail;
-            Password = password;
-            Permissions = permissions;
-            Address = address;
-            Phone = phone;
-            RUT = rut;
-            HourValue = hourValue;
-            ExtraValue = extraValue;
-            GrossSalary = grossSalary;
-            NetSalary = netSalary;
-            DiscountAFP = discountAFP;
-            DiscountHealth = discountHealth;
-            AFPName = afpName;
-            HealthName = healthName;
         }
     }
 }
