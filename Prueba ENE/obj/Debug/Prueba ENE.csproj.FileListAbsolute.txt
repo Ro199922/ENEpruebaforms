@@ -1,0 +1,24 @@
+D:\AIEP\1er año\taller de programacion\semana 8\ene 3\Prueba ENE\Prueba ENE\bin\Debug\Prueba ENE.exe.config
+D:\AIEP\1er año\taller de programacion\semana 8\ene 3\Prueba ENE\Prueba ENE\bin\Debug\Prueba ENE.exe
+D:\AIEP\1er año\taller de programacion\semana 8\ene 3\Prueba ENE\Prueba ENE\bin\Debug\Prueba ENE.pdb
+D:\AIEP\1er año\taller de programacion\semana 8\ene 3\Prueba ENE\Prueba ENE\bin\Debug\MySql.Data.dll
+D:\AIEP\1er año\taller de programacion\semana 8\ene 3\Prueba ENE\Prueba ENE\bin\Debug\Google.Protobuf.dll
+D:\AIEP\1er año\taller de programacion\semana 8\ene 3\Prueba ENE\Prueba ENE\bin\Debug\ZstdNet.dll
+D:\AIEP\1er año\taller de programacion\semana 8\ene 3\Prueba ENE\Prueba ENE\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\AIEP\1er año\taller de programacion\semana 8\ene 3\Prueba ENE\Prueba ENE\bin\Debug\BouncyCastle.Crypto.dll
+D:\AIEP\1er año\taller de programacion\semana 8\ene 3\Prueba ENE\Prueba ENE\bin\Debug\Ubiety.Dns.Core.dll
+D:\AIEP\1er año\taller de programacion\semana 8\ene 3\Prueba ENE\Prueba ENE\bin\Debug\System.Buffers.dll
+D:\AIEP\1er año\taller de programacion\semana 8\ene 3\Prueba ENE\Prueba ENE\bin\Debug\K4os.Compression.LZ4.dll
+D:\AIEP\1er año\taller de programacion\semana 8\ene 3\Prueba ENE\Prueba ENE\bin\Debug\K4os.Hash.xxHash.dll
+D:\AIEP\1er año\taller de programacion\semana 8\ene 3\Prueba ENE\Prueba ENE\bin\Debug\MySql.Data.xml
+D:\AIEP\1er año\taller de programacion\semana 8\ene 3\Prueba ENE\Prueba ENE\obj\Debug\Prueba ENE.csproj.AssemblyReference.cache
+D:\AIEP\1er año\taller de programacion\semana 8\ene 3\Prueba ENE\Prueba ENE\obj\Debug\Prueba ENE.csproj.SuggestedBindingRedirects.cache
+D:\AIEP\1er año\taller de programacion\semana 8\ene 3\Prueba ENE\Prueba ENE\obj\Debug\Prueba ENE.exe.config
+D:\AIEP\1er año\taller de programacion\semana 8\ene 3\Prueba ENE\Prueba ENE\obj\Debug\Prueba_ENE.Autentificacion.resources
+D:\AIEP\1er año\taller de programacion\semana 8\ene 3\Prueba ENE\Prueba ENE\obj\Debug\Prueba_ENE.Properties.Resources.resources
+D:\AIEP\1er año\taller de programacion\semana 8\ene 3\Prueba ENE\Prueba ENE\obj\Debug\Prueba ENE.csproj.GenerateResource.cache
+D:\AIEP\1er año\taller de programacion\semana 8\ene 3\Prueba ENE\Prueba ENE\obj\Debug\Prueba ENE.csproj.CoreCompileInputs.cache
+D:\AIEP\1er año\taller de programacion\semana 8\ene 3\Prueba ENE\Prueba ENE\obj\Debug\Prueba ENE.csproj.CopyComplete
+D:\AIEP\1er año\taller de programacion\semana 8\ene 3\Prueba ENE\Prueba ENE\obj\Debug\Prueba ENE.exe
+D:\AIEP\1er año\taller de programacion\semana 8\ene 3\Prueba ENE\Prueba ENE\obj\Debug\Prueba ENE.pdb
+D:\AIEP\1er año\taller de programacion\semana 8\ene 3\Prueba ENE\Prueba ENE\obj\Debug\Prueba_ENE.RegistroSueldoTrabajador.resources

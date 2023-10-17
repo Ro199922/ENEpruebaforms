@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Prueba ENE", "Prueba ENE\Prueba ENE.csproj", "{46BC29D7-56B8-471F-B118-4FAEBDC9687D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{46BC29D7-56B8-471F-B118-4FAEBDC9687D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{46BC29D7-56B8-471F-B118-4FAEBDC9687D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{46BC29D7-56B8-471F-B118-4FAEBDC9687D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{46BC29D7-56B8-471F-B118-4FAEBDC9687D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3285C43C-44F8-47F4-A1FC-BF304ACD47B9}
+	EndGlobalSection
+EndGlobal
